@@ -1,10 +1,10 @@
 import React from 'react';
+import Card from '../components/Card';
+import LondonEye from "./images/londoneye.jpg"
 
 const Homepage = () =>{
     return (
-        <div>
-            Hi Jade!
-        </div>
+        <h1>This is the Homepage</h1>
     );
 };
 

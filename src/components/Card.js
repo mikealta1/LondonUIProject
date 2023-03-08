@@ -1,8 +1,12 @@
 import React from 'react'
+import './Card.css'
 
-function Card() {
+function Card(props) {
     return(
-        <div>hi</div>
+        <div className='Card'>
+            <p>{props.name}</p>
+            <div className='imgHolder'><img className ="cardImg" src={props.img}/></div>
+        </div>
     )
 };
 
