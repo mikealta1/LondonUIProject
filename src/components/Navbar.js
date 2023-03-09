@@ -9,7 +9,7 @@ function Navbar() {
  return (
      <div>
        <Routes>
-         <Route path="/" element={<Layout />}>
+         <Route path="/uiux_project_1/" element={<Layout />}>
            <Route index element={<Homepage />} />
            <Route path="Hotels" element={<Hotels />} />
            <Route path="Restaurants" element={<Restaurants />} />
