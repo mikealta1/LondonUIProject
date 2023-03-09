@@ -4,12 +4,12 @@
     flex-direction: row;
     justify-content: space-around;
     flex-wrap: wrap;
-    padding: 10px;
+    padding: 1vh;
 }
 
 .NavbarLink {
     color: white;
     text-decoration: none;
-    font-size: 20px;
-    padding: 7px;
+    font-size: calc(12px + 1vw);
+    padding: .5vh;
 }

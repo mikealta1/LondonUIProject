@@ -4,8 +4,10 @@ import './Card.css'
 function Card(props) {
     return(
         <div className='Card'>
-            <p>{props.name}</p>
-            <div className='imgHolder'><img className ="cardImg" src={props.img}/></div>
+            <div className='cardImgHolder'>
+                <img className ="cardImg" src={props.img} alt=''/>
+            </div>
+            <div>{props.name}</div>
         </div>
     )
 };
