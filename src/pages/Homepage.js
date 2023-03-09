@@ -1,6 +1,4 @@
 import React from 'react';
-import Card from '../components/Card';
-import LondonEye from "./images/londoneye.jpg"
 
 const Homepage = () =>{
     return (
