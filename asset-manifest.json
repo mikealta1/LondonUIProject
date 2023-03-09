@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/uiux_project_1/static/css/main.80759995.css",
+    "main.js": "/uiux_project_1/static/js/main.0d62cea1.js",
+    "static/js/787.ef9d3840.chunk.js": "/uiux_project_1/static/js/787.ef9d3840.chunk.js",
+    "static/media/ivyrest.jpg": "/uiux_project_1/static/media/ivyrest.a225a0c54a922bd6c2aa.jpg",
+    "static/media/londoneye.jpg": "/uiux_project_1/static/media/londoneye.055864e13265491ce090.jpg",
+    "static/media/skyline.png": "/uiux_project_1/static/media/skyline.1f44d0906335bde4d58e.png",
+    "static/media/TowerHotel.jpg": "/uiux_project_1/static/media/TowerHotel.c84fea4738fa650627cd.jpg",
+    "static/media/thamesriver.jpg": "/uiux_project_1/static/media/thamesriver.4419bc2d147894c23400.jpg",
+    "static/media/WaldorfHotel.jpg": "/uiux_project_1/static/media/WaldorfHotel.ef777c1ae35affe032fc.jpg",
+    "static/media/rulesrest.jpg": "/uiux_project_1/static/media/rulesrest.61d564eb28fe67dab614.jpg",
+    "static/media/towerLondon.jpg": "/uiux_project_1/static/media/towerLondon.11eddda102cab3a4b051.jpg",
+    "static/media/bigben.jpg": "/uiux_project_1/static/media/bigben.20085ddcf6a845b87033.jpg",
+    "static/media/ritzHotel.jpg": "/uiux_project_1/static/media/ritzHotel.86165f64773dd8efdd85.jpg",
+    "static/media/ritzrest.jpg": "/uiux_project_1/static/media/ritzrest.45844f1e1137d9f19fbc.jpg",
+    "index.html": "/uiux_project_1/index.html",
+    "main.80759995.css.map": "/uiux_project_1/static/css/main.80759995.css.map",
+    "main.0d62cea1.js.map": "/uiux_project_1/static/js/main.0d62cea1.js.map",
+    "787.ef9d3840.chunk.js.map": "/uiux_project_1/static/js/787.ef9d3840.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80759995.css",
+    "static/js/main.0d62cea1.js"
+  ]
+}
