@@ -26,10 +26,10 @@ function Layout() {
     <div>
       <nav>
         <ul className='Navbar'>
-          <Link className='NavbarLink' to="/">Home</Link>
-          <Link className='NavbarLink' to="/Hotels">Hotels</Link>
-          <Link className='NavbarLink' to="/Restaurants">Restaurants</Link>
-          <Link className='NavbarLink' to="/Attractions">Attractions</Link>
+          <Link className='NavbarLink' to="/uiux_project_1/">Home</Link>
+          <Link className='NavbarLink' to="/uiux_project_1/Hotels">Hotels</Link>
+          <Link className='NavbarLink' to="/uiux_project_1/Restaurants">Restaurants</Link>
+          <Link className='NavbarLink' to="/uiux_project_1/Attractions">Attractions</Link>
         </ul>
       </nav>
 
@@ -46,7 +46,7 @@ function NoMatch() {
     <div>
       <h2>Nothing to see here!</h2>
       <p>
-        <Link to="/">Go to the home page</Link>
+        <Link to="/uiux_project_1/">Go to the home page</Link>
       </p>
     </div>
   );
