@@ -6,7 +6,7 @@ const text = "London Eye"
 
 const Attractions = () =>{
     return (
-        <Card name={text} img = {LondonEye}></Card>
+        <Card name={text} img = {LondonEye} alt ='londoneye'></Card>
     );
 };
 
