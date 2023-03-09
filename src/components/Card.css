@@ -1,14 +1,16 @@
 .Card{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
+    border-color: aqua;
+    border-radius: 4;
+    min-width: 90vh;
 }
-.imgHolder{
-    max-width: 800px;
-    max-height: 1200px;
+.cardImgHolder{
+    max-height: 20vh;
+    max-width: 20vh;
 }
 .cardImg{
-    height: 100%;
-    width: 100%;
     display: flex;
+    size: contain;
 }
